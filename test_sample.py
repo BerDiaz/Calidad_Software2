@@ -4,4 +4,4 @@ def test_vista():
     assert nombre_func(3,4) == 5
     
 def test_vista():
-    assert nombre_func(8,14) == 10
+    assert nombre_func(6, 8) == 10
